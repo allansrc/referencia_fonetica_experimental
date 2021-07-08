@@ -1,4 +1,5 @@
 <div class="manual clearfix colelem" id="u469-134" data-muse-uid="U469" data-muse-type="txt_frame"><!-- content -->
+    <p><span><a class="nonblock" href="assets/andrade1997.pdf" data-href="upload:U479" target="_blank">Plínio A. Barbosa | Sandra Madureira 2015</a></span></p>
     <p><span><a class="nonblock" href="assets/andrade1997.pdf" data-href="upload:U479" target="_blank">Andrade 1997</a></span></p>
     <p><span><a class="nonblock" href="assets/andrade1999.pdf" data-href="upload:U481" target="_blank">Andrade1999</a></span></p>
     <p><span><a class="nonblock" href="assets/andradea2003.pdf" data-href="upload:U483" target="_blank">Andrade A 2003</a></span></p>
